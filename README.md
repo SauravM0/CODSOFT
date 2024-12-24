@@ -1,7 +1,4 @@
-
-Excited to share my Internship experience at CODSOFT ! From day one, I've been immersed in meaningful projects, learning the ropes, and collaborating with talented professionals. Grateful for the opportunity to grow and contribute in such a dynamic environment. #InternshipJourney #CODSOFTInternship
-
-🚀 The latest project, which I worked on during my AI internship at CodSoft, is incredibly cool! 🚀
+🚀 The latest project, which I worked on during my AI internship, is incredibly cool! 🚀
 
 Python has been used by me to make a rule-based chatbot that is easy to make. It will always learn and improve itself with time, despite being able to perform simple greetings.
 💡 I can’t wait to get more into artificial intelligence and machine learning because of the limitless opportunities in this sphere.
